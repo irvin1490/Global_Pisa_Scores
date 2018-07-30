@@ -1,2 +1,2 @@
-# Global_Pisa_Scores combined rankings for Reading, Science, Math, then correlated with Bloomberg Innovation Index rankings for top 37 countries.
+# Global Pisa Scores combined rankings for Reading, Science, Math, then correlated with Bloomberg Innovation Index rankings for top 37 countries.
 A tabulation, analysis of global PISA Scores combining dataframes for Science, Reading, Math for top 37 countries then correlated with Bloomberg Innovation Index rankings 2017 vs PISA Scores 2015 has an R Value of .7 indicating strong correlation.  Data is from most recent data sets readily available.
